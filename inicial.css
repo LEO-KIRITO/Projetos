@@ -212,7 +212,7 @@ width: 180px;
 height: 100px;
 position: absolute;
 top: 4%;
-right: 6%;
+right: 8%;
 align-items: center;
 display: flex;
 justify-content: flex-end;
@@ -345,7 +345,7 @@ body {
 .trai{
   position: absolute;
   top: 25%;
-  left: 55%;
+  left: 60%;
 }
 
 
@@ -492,3 +492,4 @@ button:hover {
         padding: 15px;
     }
 }
+
